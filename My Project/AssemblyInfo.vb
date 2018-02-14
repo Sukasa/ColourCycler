@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("Smooth hue cycling for G510 keyboards")> 
 <Assembly: AssemblyCompany("Microsoft")> 
 <Assembly: AssemblyProduct("")> 
-<Assembly: AssemblyCopyright("2011 Nicholas Matear")> 
+<Assembly: AssemblyCopyright("2011 Sukasa")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)> 
